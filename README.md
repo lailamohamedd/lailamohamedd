@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Laila 
+## Hi there 👋 I'm Laila 
 Welcome to my GitHub profile! I'm a frontend developer(UI | Vue JS | React JS)👩‍💻
 
 ## 🛠️ Skills
