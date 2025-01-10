@@ -2,33 +2,31 @@
 Welcome to my GitHub profile! I'm a frontend developer(UI | Vue JS | React JS)👩‍💻
 
 ## 🛠️ Skills
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
 
-## 📌 Frontend
+### 📌 Frontend
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![SCSS](https://img.icons8.com/color/48/000000/sass.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 
-## 📌 Frameworks & Libraries
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+### 📌 Frameworks & Libraries
+<img src="https://img.icons8.com/ios/50/000000/tailwind-css.png" alt="Tailwind CSS"/>
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
 ![Nuxt.js](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![Redux](https://img.icons8.com/color/48/000000/redux.png)
 
-## 📌 CMS
+### 📌 CMS
 ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)
 
-## 📌 Transferable Skills:
+### 📌 Transferable Skills:
 - **SEO Best Practices**
 - **Mobile-First Design**
 - **Cross-Browser Testing**
 
-## 📌 Frontend Tools:
+### 📌 Frontend Tools:
 - **Media Queries**
 - **CSS Grid**
 - **Flexbox**
@@ -38,8 +36,9 @@ Welcome to my GitHub profile! I'm a frontend developer(UI | Vue JS | React JS)�
 - **Problem-Solving**
 - **Attention to Detail**
 - **Performance Optimization**
+- **Git & Github**
 
-## 📌 Design & Prototyping:
+### 📌 Design & Prototyping:
 - **Photoshop**
 - **Wireframes**
 - **Mockups**
