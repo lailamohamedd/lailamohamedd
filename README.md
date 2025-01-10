@@ -11,32 +11,12 @@ Welcome to my GitHub profile! I'm a frontend developer(UI | Vue JS | React JS)�
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 
 ### 📌 Frameworks & Libraries
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; padding: 20px;">
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" style="width: 50px; height: 50px;">
-  </a>
-  
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="width: 50px; height: 50px;">
-  </a>
-  
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" style="width: 50px; height: 50px;">
-  </a>
-  
-  <a href="https://nuxtjs.org/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" alt="Nuxt.js" style="width: 50px; height: 50px;">
-  </a>
-  
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="width: 50px; height: 50px;">
-  </a>
-  
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" style="width: 50px; height: 50px;">
-  </a>
-</div>
-
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
 ### 📌 CMS
 ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)
