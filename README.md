@@ -1,18 +1,18 @@
 ## Hi there 👋, I'm Laila Abdellatif Mohamed
 Welcome to my GitHub profile! I'm a frontend developer(UI | Vue JS | React JS)👩‍💻
 
-🛠️ ## Skills
+## 🛠️ Skills
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
 
-📌 Frontend
+## 📌 Frontend
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![SCSS](https://img.icons8.com/color/48/000000/sass.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 
-📌 Frameworks & Libraries
+## 📌 Frameworks & Libraries
 ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
@@ -20,15 +20,15 @@ Welcome to my GitHub profile! I'm a frontend developer(UI | Vue JS | React JS)�
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![Redux](https://img.icons8.com/color/48/000000/redux.png)
 
-📌 CMS
+## 📌 CMS
 ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)
 
-📌 Transferable Skills:
+## 📌 Transferable Skills:
 - **SEO Best Practices**
 - **Mobile-First Design**
 - **Cross-Browser Testing**
 
-📌 Frontend Tools:
+## 📌 Frontend Tools:
 - **Media Queries**
 - **CSS Grid**
 - **Flexbox**
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a frontend developer(UI | Vue JS | React JS)�
 - **Attention to Detail**
 - **Performance Optimization**
 
-📌 Design & Prototyping:
+## 📌 Design & Prototyping:
 - **Photoshop**
 - **Wireframes**
 - **Mockups**
@@ -49,14 +49,28 @@ Welcome to my GitHub profile! I'm a frontend developer(UI | Vue JS | React JS)�
 - **Time Management**
 
 
-📫 How to reach me
-__________________________________________________________________________________
+## 📫 How to reach me
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/laila-a-mohamed/)  
-[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://x.com/LailaMo90)  
-[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://web.facebook.com/profile.php?id=100028147566924&_rdc=1&_rdr)  
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new--v1.png)](https://www.instagram.com/codeswithlaila/)  
-[![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png)](https://wa.me/201010579244)
-[![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:lailamohammed2023@gmail.com)
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/laila-a-mohamed/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin: 10px; border-radius: 8px;">
+  </a>
+  <a href="https://x.com/LailaMo90" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" style="margin: 10px; border-radius: 8px;">
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=100028147566924&_rdc=1&_rdr" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="margin: 10px; border-radius: 8px;">
+  </a>
+  <a href="https://www.instagram.com/codeswithlaila/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" style="margin: 10px; border-radius: 8px;">
+  </a>
+  <a href="https://wa.me/201010579244" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" style="margin: 10px; border-radius: 8px;">
+  </a>
+  <a href="mailto:lailamohammed2023@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" style="margin: 10px; border-radius: 8px;">
+  </a>
+</div>
 
-Thank you for visiting my profile❤️
+
+## Thank you for visiting my profile❤️
