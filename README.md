@@ -27,18 +27,23 @@ Welcome to my GitHub profile! I'm a frontend developer(UI | Vue JS | React JS)�
 - **Cross-Browser Testing**
 
 ### 📌 Frontend Tools:
-- **Media Queries**                 - **RESTful APIs**
-- **Performance Optimization**      - **Attention to Detail**
-- **Git & Github**                  - **JSON**
-- **CSS Grid**                      - **AJAX**
+- **Media Queries**
+- **RESTful APIs**
+- **Performance Optimization**
+- **Attention to Detail**
+- **Git & Github**                  
+- **CSS Grid**                      
 - **Flexbox**
+- **JSON**
+- **AJAX**
 
 ### 📌 Design & Prototyping:
-- **Photoshop**                      - **Responsive Design**
-- **Wireframes**                     - **UI Design**
-- **Mockups**                        - **Web Security**
+- **Photoshop**                     
+- **Wireframes**                     
+- **Mockups**                        
 - **Time Management**
-
+- **Responsive Design**
+- **UI Design**
 
 ## 📫 How to reach me
 
