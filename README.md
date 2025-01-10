@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Laila Abdellatif Mohamed
+## Hi there 👋, I'm Laila 
 Welcome to my GitHub profile! I'm a frontend developer(UI | Vue JS | React JS)👩‍💻
 
 ## 🛠️ Skills
@@ -27,24 +27,16 @@ Welcome to my GitHub profile! I'm a frontend developer(UI | Vue JS | React JS)�
 - **Cross-Browser Testing**
 
 ### 📌 Frontend Tools:
-- **Media Queries**
-- **CSS Grid**
+- **Media Queries**                 - **RESTful APIs**
+- **Performance Optimization**      - **Attention to Detail**
+- **Git & Github**                  - **JSON**
+- **CSS Grid**                      - **AJAX**
 - **Flexbox**
-- **AJAX**
-- **JSON**
-- **RESTful APIs**
-- **Problem-Solving**
-- **Attention to Detail**
-- **Performance Optimization**
-- **Git & Github**
 
 ### 📌 Design & Prototyping:
-- **Photoshop**
-- **Wireframes**
-- **Mockups**
-- **Responsive Design**
-- **UI Design**
-- **Web Security**
+- **Photoshop**                      - **Responsive Design**
+- **Wireframes**                     - **UI Design**
+- **Mockups**                        - **Web Security**
 - **Time Management**
 
 
