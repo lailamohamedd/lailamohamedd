@@ -11,12 +11,37 @@ Welcome to my GitHub profile! I'm a frontend developer(UI | Vue JS | React JS)�
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 
 ### 📌 Frameworks & Libraries
-<img src="https://img.icons8.com/ios/50/000000/tailwind-css.png" alt="Tailwind CSS"/>
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
-![Nuxt.js](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png)
-![React](https://img.icons8.com/color/48/000000/react-native.png)
-![Redux](https://img.icons8.com/color/48/000000/redux.png)
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; padding: 20px;">
+  <a href="https://tailwindcss.com/" target="_blank" style="text-align: center; border-radius: 10px; background-color: #38bdf8; padding: 10px;">
+    <img src="https://img.icons8.com/ios/50/000000/tailwind-css.png" alt="Tailwind CSS" style="width: 50px; height: 50px; margin-bottom: 10px;">
+    <br>Tailwind CSS
+  </a>
+  
+  <a href="https://getbootstrap.com/" target="_blank" style="text-align: center; border-radius: 10px; background-color: #563d7c; padding: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="width: 50px; height: 50px; margin-bottom: 10px;">
+    <br>Bootstrap
+  </a>
+  
+  <a href="https://vuejs.org/" target="_blank" style="text-align: center; border-radius: 10px; background-color: #42b983; padding: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" style="width: 50px; height: 50px; margin-bottom: 10px;">
+    <br>Vue.js
+  </a>
+  
+  <a href="https://nuxtjs.org/" target="_blank" style="text-align: center; border-radius: 10px; background-color: #00dc82; padding: 10px;">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" alt="Nuxt.js" style="width: 50px; height: 50px; margin-bottom: 10px;">
+    <br>Nuxt.js
+  </a>
+  
+  <a href="https://reactjs.org/" target="_blank" style="text-align: center; border-radius: 10px; background-color: #61dafb; padding: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="width: 50px; height: 50px; margin-bottom: 10px;">
+    <br>React
+  </a>
+  
+  <a href="https://redux.js.org/" target="_blank" style="text-align: center; border-radius: 10px; background-color: #764abc; padding: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" style="width: 50px; height: 50px; margin-bottom: 10px;">
+    <br>Redux
+  </a>
+</div>
 
 ### 📌 CMS
 ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)
