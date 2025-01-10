@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Laila Abdellatif Mohamed
 Welcome to my GitHub profile! I'm a frontend developer(UI | Vue JS | React JS)👩‍💻
 
-🛠️ Skills
-___________________________________________________________________________________________________________________________________________________________
+🛠️ ## Skills
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
 
