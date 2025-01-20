@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Laila 👩‍💻
 Welcome to my GitHub profile! I'm a frontend developer (UI | Vue JS | React JS)
 <p align="right">
-  <img src="https://camo.githubusercontent.com/783b846c7d640d7ef146ac06289bfd0916b0b005ee3c6267a43e62f76b4705a3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f79383344777148526352316a4a637a56332f67697068792e676966" />
+  <img width="100px" src="https://camo.githubusercontent.com/783b846c7d640d7ef146ac06289bfd0916b0b005ee3c6267a43e62f76b4705a3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6f79383344777148526352316a4a637a56332f67697068792e676966" />
 </p>
 
 ## 🛠️ Skills
