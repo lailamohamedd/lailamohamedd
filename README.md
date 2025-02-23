@@ -21,7 +21,6 @@
 ### 📌 CMS
 ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)
 
-## 🚀 My Skills
 
 | 📌 Category            | 🛠️ Tools & Technologies |
 |----------------------|------------------|
