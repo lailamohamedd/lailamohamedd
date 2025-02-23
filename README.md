@@ -21,6 +21,15 @@
 ### 📌 CMS
 ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)
 
+## 🚀 My Skills
+
+| 📌 Category            | 🛠️ Tools & Technologies |
+|----------------------|------------------|
+| **Transferable Skills** | SEO Best Practices, Mobile-First Design, Cross-Browser Testing |
+| **Frontend Tools** | Media Queries, RESTful APIs, Performance Optimization, Attention to Detail, Git & GitHub, CSS Grid, Flexbox, JSON, AJAX |
+| **Design & Prototyping** | Photoshop, Wireframes, Mockups, Time Management, Responsive Design, UI Design |
+
+
 ### 📌 Transferable Skills:
 - **SEO Best Practices**
 - **Mobile-First Design**
