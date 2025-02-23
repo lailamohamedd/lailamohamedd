@@ -29,6 +29,15 @@
 | **Frontend Tools** | Media Queries, RESTful APIs, Performance Optimization, Attention to Detail, Git & GitHub, CSS Grid, Flexbox, JSON, AJAX |
 | **Design & Prototyping** | Photoshop, Wireframes, Mockups, Time Management, Responsive Design, UI Design |
 
+## 📊 GitHub Stats
+
+![YOUR_GITHUB_USERNAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+
 ## 📫 How to reach me
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
