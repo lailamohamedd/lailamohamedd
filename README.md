@@ -29,31 +29,6 @@
 | **Frontend Tools** | Media Queries, RESTful APIs, Performance Optimization, Attention to Detail, Git & GitHub, CSS Grid, Flexbox, JSON, AJAX |
 | **Design & Prototyping** | Photoshop, Wireframes, Mockups, Time Management, Responsive Design, UI Design |
 
-
-### 📌 Transferable Skills:
-- **SEO Best Practices**
-- **Mobile-First Design**
-- **Cross-Browser Testing**
-
-### 📌 Frontend Tools:
-- **Media Queries**
-- **RESTful APIs**
-- **Performance Optimization**
-- **Attention to Detail**
-- **Git & Github**                  
-- **CSS Grid**                      
-- **Flexbox**
-- **JSON**
-- **AJAX**
-
-### 📌 Design & Prototyping:
-- **Photoshop**                     
-- **Wireframes**                     
-- **Mockups**                        
-- **Time Management**
-- **Responsive Design**
-- **UI Design**
-
 ## 📫 How to reach me
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
