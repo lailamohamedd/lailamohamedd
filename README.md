@@ -29,15 +29,6 @@
 | **Frontend Tools** | Media Queries, RESTful APIs, Performance Optimization, Attention to Detail, Git & GitHub, CSS Grid, Flexbox, JSON, AJAX |
 | **Design & Prototyping** | Photoshop, Wireframes, Mockups, Time Management, Responsive Design, UI Design |
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true)
-
-
-## 🔥 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
 
 ## 📫 How to reach me
 
