@@ -47,10 +47,15 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
 </p>
 
 ---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lailamohamedd&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lailamohamedd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+--- 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lailamohamedd&layout=compact&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lailamohamedd&layout=compact&langs_count=8&theme=tokyonight)
+
+---
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lailamohamedd&theme=radical)
 
 ---
