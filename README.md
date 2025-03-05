@@ -46,21 +46,6 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
   <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" />
 </p>
 
-
-### 📌 CMS & Tools
-![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)  
-![Git & GitHub](https://img.icons8.com/color/48/000000/git.png)  
-![JSON](https://img.icons8.com/color/48/000000/json.png)  
-![AJAX](https://img.icons8.com/external-flat-icons-pause-08/64/external-ajax-web-design-and-development-flat-icons-pause-08.png)
-
-### 📌 More Skills
-
-| **Category** | **Skills & Tools** |
-|-------------|------------------|
-| **Frontend Development** | Responsive Web Design, Cross-Browser Compatibility, Performance Optimization |
-| **Design & Prototyping** | Photoshop, Wireframes, Mockups, UI Design |
-| **Collaboration & Workflow** | GitHub, Agile Methodology, Problem-Solving |
-
 ---
 
 ## 📫 Connect with Me
