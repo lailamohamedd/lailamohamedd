@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about crafting modern, responsive, and user-friendly interfaces using **Vue.js, React.js, and modern UI frameworks**. My goal is to deliver **seamless user experiences** with a focus on **performance, accessibility, and aesthetics**.
 
----
+--
 
 ## 🚀 About Me
 
