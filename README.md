@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
 
 Let's connect and collaborate! 🚀
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/laila-a-mohamed/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
