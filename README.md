@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about crafting modern, responsive, and user-friendly interfaces using **Vue.js, React.js, and modern UI frameworks**. My goal is to deliver **seamless user experiences** with a focus on **performance, accessibility, and aesthetics**.
 
--
+
 
 ## 🚀 About Me
 
@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
 - ⏳ **Project Management** | Strong organizational skills and the ability to meet deadlines.
 - 📊 **SEO Best Practices** - Enhancing search engine visibility.
 
--
 
 ## 🛠️ Skills & Technologies
 
@@ -46,7 +45,7 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
   <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" />
 </p>
 
--
+
 
 ## 🚀 GitHub Profile Stats
 
@@ -65,7 +64,6 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
 </div>
 
 
--
 
 ## 📊 Most Used Languages
 
@@ -76,7 +74,6 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
 </div>
 
 
--
 
 ## 📫 Connect with Me
 
