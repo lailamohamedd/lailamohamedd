@@ -53,26 +53,28 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
 <div align="center">
   
   <!-- GitHub Stats -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gruvbox&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFDD00&text_color=FFFFFF&icon_color=FFDD00" alt="GitHub Stats" width="48%" />
+  <a href="https://github.com/lailamohamedd">
+    <img src="https://github-readme-stats.vercel.app/api?username=lailamohamedd&show_icons=true&theme=light&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=1E90FF&text_color=333333&icon_color=1E90FF" alt="GitHub Stats" width="48%" />
   </a>
 
   <!-- GitHub Streak -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=gruvbox&hide_border=true&background=0D1117&ring=FFDD00&fire=FFDD00&currStreakLabel=FFDD00" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/lailamohamedd">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lailamohamedd&theme=light&hide_border=true&background=FFFFFF&ring=1E90FF&fire=FF4500&currStreakLabel=1E90FF" alt="GitHub Streak" width="48%" />
   </a>
 
 </div>
+
 
 -
 
 ## 📊 Most Used Languages
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFDD00&text_color=FFFFFF" alt="Top Languages" width="50%" />
+  <a href="https://github.com/lailamohamedd">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailamohamedd&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF&title_color=1E90FF&text_color=333333" alt="Top Languages" width="50%" />
   </a>
 </div>
+
 
 -
 
