@@ -99,7 +99,6 @@ Let's connect and collaborate! 🚀
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
   </a>
 </p>
----
 
 ## 💖 Thank You for Visiting My Profile!
 
