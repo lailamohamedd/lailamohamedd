@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about crafting modern, responsive, and user-friendly interfaces using **Vue.js, React.js, and modern UI frameworks**. My goal is to deliver **seamless user experiences** with a focus on **performance, accessibility, and aesthetics**.
 
----
+-
 
 ## 🚀 About Me
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
 - ⏳ **Project Management** | Strong organizational skills and the ability to meet deadlines.
 - 📊 **SEO Best Practices** - Enhancing search engine visibility.
 
----
+-
 
 ## 🛠️ Skills & Technologies
 
@@ -46,19 +46,35 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
   <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" />
 </p>
 
----
+-
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lailamohamedd&show_icons=true&theme=radical)
+## 🚀 GitHub Profile Stats
 
---- 
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gruvbox&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFDD00&text_color=FFFFFF&icon_color=FFDD00" alt="GitHub Stats" width="48%" />
+  </a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lailamohamedd&layout=compact&theme=radical)
+  <!-- GitHub Streak -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=gruvbox&hide_border=true&background=0D1117&ring=FFDD00&fire=FFDD00&currStreakLabel=FFDD00" alt="GitHub Streak" width="48%" />
+  </a>
 
----
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lailamohamedd&theme=radical)
+-
 
----
+## 📊 Most Used Languages
+
+<div align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFDD00&text_color=FFFFFF" alt="Top Languages" width="50%" />
+  </a>
+</div>
+
+-
 
 ## 📫 Connect with Me
 
