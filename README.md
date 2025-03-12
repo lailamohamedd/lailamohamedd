@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
 
 ## 🚀 GitHub Profile Stats
 
-<div align="center">
+<div align="left">
   
   <!-- GitHub Stats -->
   <a href="https://github.com/lailamohamedd">
@@ -68,7 +68,7 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
 
 ## 📊 Most Used Languages
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/lailamohamedd">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailamohamedd&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF&title_color=0078D7&text_color=333333" alt="Top Languages" width="50%" />
   </a>
@@ -80,7 +80,7 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
 
 Let's connect and collaborate! 🚀
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/laila-a-mohamed/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
