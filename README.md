@@ -59,12 +59,7 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
   
   <!-- GitHub Stats -->
   <a href="https://github.com/lailamohamedd">
-    <img src="https://github-readme-stats.vercel.app/api?username=lailamohamedd&show_icons=true&theme=light&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=0078D7&text_color=333333&icon_color=0078D7" alt="GitHub Stats" width="48%" />
-  </a>
-
-  <!-- GitHub Streak -->
-  <a href="https://github.com/lailamohamedd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lailamohamedd&theme=light&hide_border=true&background=FFFFFF&ring=0078D7&fire=FF4500&currStreakLabel=0078D7" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lailamohamedd&show_icons=true&theme=light&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=0078D7&text_color=333333&icon_color=0078D7" alt="GitHub Stats" width="50%" />
   </a>
 
 </div>
@@ -75,7 +70,7 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
 
 <div align="center">
   <a href="https://github.com/lailamohamedd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailamohamedd&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF&title_color=0078D7&text_color=333333" alt="Top Languages" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailamohamedd&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF&title_color=0078D7&text_color=333333" alt="Top Languages" width="50%" />
   </a>
 </div>
 
